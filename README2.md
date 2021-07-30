@@ -1,10 +1,8 @@
-# DOM I IS AWESOME Project
-
-- JavaScript Content Management System
+# DOM I - JavaScript Content Management System
 
 ## Contents
 
-- [DOM I IS AWESOME Project](#dom-i-is-awesome-project)
+- [DOM I - JavaScript Content Management System](#dom-i---javascript-content-management-system)
   - [Contents](#contents)
   - [Project Description](#project-description)
   - [Instructions](#instructions)
